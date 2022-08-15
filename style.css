@@ -1,7 +1,5 @@
 aside{
     border:3px double black;
     padding:15px;
-    display:flex;
-    justify-content:flex-end;
-    flex-direction: column;
+    float: right;
 }
