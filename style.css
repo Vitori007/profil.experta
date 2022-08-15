@@ -9,8 +9,9 @@ a{
     text-decoration:none;
     font-size:30px;
     margin:40px;
+    padding:10px;
 }
-p{
+header p{
     font-size:20px;
     margin:40px;
 }
